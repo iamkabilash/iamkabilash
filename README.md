@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm **Kabilash**.
+
+- 🔭 I’m a mechanical engineer turned web developer, due to sheer interest in programming.
+- 🌱 I’m currently learning Fullstack Web development, and pretty good at HTML, CSS, JavaScript and React.
+- 📫 Reach me via: [Email](mailto:iamkabilash@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamkabilash/) (or) [Twitter](https://twitter.com/iamkabilash).
 
 <!--
 **iamkabilash/iamkabilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
