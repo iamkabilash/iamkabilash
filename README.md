@@ -2,7 +2,7 @@
 
 - 🔭 I’m a mechanical engineer turned web developer, due to sheer interest in programming.
 - 🌱 I’m currently learning Fullstack Web development, and pretty good at HTML, CSS, JavaScript and React.
-- Checkout my [Portfolio here.](https://sparkly-nougat-6a6321.netlify.app/index.html)
+- Checkout my Portfolio at [iamkabilash.com](https://iamkabilash.com)
 - 📫 Reach me via: [Email](mailto:iamkabilash@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamkabilash/) or [Twitter](https://twitter.com/iamkabilash).
 
 <!--
