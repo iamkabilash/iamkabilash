@@ -1,4 +1,4 @@
-### Hi there 👋 I'm **Kabilash**. ⚡ Checkout my Portfolio at [iamkabilash.com](http://iamkabilash.com)
+### Hi there 👋 I'm **Kabilash**. Checkout my Portfolio at [iamkabilash.com](http://iamkabilash.com)
 
 - 🔭 I’m a mechanical engineer turned web developer, due to sheer interest in programming.
 - 🌱 I’m currently learning Fullstack Web development, and pretty good at HTML, CSS, TailwindCSS, JavaScript and React.
