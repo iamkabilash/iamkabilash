@@ -3,7 +3,6 @@
 - 🔭 I’m a mechanical engineer turned web developer, due to sheer interest in programming.
 - 🌱 I’m currently learning Fullstack Web development, and pretty good at HTML, CSS, TailwindCSS, JavaScript and React.
 - 📫 Reach me via: [Email](mailto:iamkabilash@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamkabilash/) or [Twitter](https://twitter.com/iamkabilash).
-- 
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkabilash)](https://github.com/anuraghazra/github-readme-stats)
