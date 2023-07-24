@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm **Kabilash**. Checkout my Portfolio at [iamkabilash.com](http://iamkabilash.com)
 
-- 🔭 Frontend / Fullstack web developer proficient in JavaScript, React, Node, Express, MongoDB and Firebase.
+- 🔭 Frontend / Fullstack web developer proficient in JavaScript, React, Next, Node, Express, MongoDB and Firebase.
 - 🎃 Experimenting and improving user experiences via A/B testing using tools like Optimizely, Adobe Target, Google Optimize.
 - 📫 Reach me via: [Email](mailto:iamkabilash@gmail.com), [LinkedIn](https://www.linkedin.com/in/iamkabilash/) or [Twitter](https://twitter.com/iamkabilash).
 <!--
